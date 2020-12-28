@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P003</string>
+    <string name="vers_celsius">vers celsius</string>
+    <string name="vers_fahrenheit">vers fahrenheit</string>
+    <string name="calculer">Calculer</string>
+
+</resources>
